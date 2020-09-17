@@ -1,15 +1,15 @@
 {
   "name": "Zendesk React App Boilerplate",
   "author": {
-    "name": "Mathias V. Nielsen",
-    "email": "mn@cloudhuset.dk",
-    "url": "https://cloudhuset.dk"
+    "name": "Jefferson Reis",
+    "email": "jefferson.reis@euemdia.com.br",
+    "url": "https://euemdia.com.br"
   },
-  "defaultLocale": "en",
+  "defaultLocale": "pt-BR.json",
   "private": true,
   "location": {
     "support": {
-      "ticket_sidebar": "assets/index.html"
+      "ticket_sidebar": "assets/iframe.html"
     }
   },
   "version": "1.0",

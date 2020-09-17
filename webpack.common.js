@@ -53,7 +53,8 @@ module.exports = {
   },
   plugins: [
     new HtmlWebpackPlugin({
-      template: "src/index.html",
+      filename: "iframe.html",
+      template: "src/iframe.html",
       hash: true,
     }),
   ],
